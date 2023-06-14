@@ -2,6 +2,7 @@ s = 'aabcca'
 
 
 def strcount1(s):
+    print('Hello)
     for sym in set(s):
         # print(sym)
         counter = 0
