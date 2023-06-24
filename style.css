@@ -9,3 +9,10 @@ h1{
 .description{
     font-size: 50px;
 }
+
+.paragraph01{
+    font-size: 24px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: green 1px 0 10px;
+}
