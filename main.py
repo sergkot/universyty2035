@@ -50,11 +50,11 @@ def palindrom_1(s):
 
 
 
-strcount1(s)
-print(set(s))
-print(palindrom('лепсспел'))
-print(palindrom('helloworld'))
-
-print('---------------')
-print(palindrom_1('лепсспел'))
-print(palindrom_1('helloworld'))
+# strcount1(s)
+# print(set(s))
+# print(palindrom('лепсспел'))
+# print(palindrom('helloworld'))
+#
+# print('---------------')
+# print(palindrom_1('лепсспел'))
+# print(palindrom_1('helloworld'))
